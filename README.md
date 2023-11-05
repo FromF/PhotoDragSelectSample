@@ -1,0 +1,2 @@
+# PhotoDragSelectSample
+写真一覧をドラッグして複数選択できるサンプルコード
